@@ -1,0 +1,1 @@
+echo "Todays date is $(date)" 
